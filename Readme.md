@@ -9,13 +9,13 @@ Para acessar e testar as funcionalidades das páginas criadas, basta clicar na i
 
 <p align="center">
   <a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/EndlessNightmare/">
-    <img alt="EndlessNightmare" title="EndlessNightmare" src="./EndlessNightmare/preview.jpg" width="250px" border-radius="3px">
+    <img alt="EndlessNightmare" title="EndlessNightmare" src="./EndlessNightmare/preview.jpg" width="260px" border-radius="3px">
   </a>
   <a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/TravelExpert/">
-    <img alt="TravelExpert" title="TravelExpert" src="./TravelExpert/preview.jpg" width="250px">
+    <img alt="TravelExpert" title="TravelExpert" src="./TravelExpert/preview.jpg" width="260px">
   </a>
   <a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/HealthyRecipes/">
-    <img alt="HealthyRecipes" title="HealthyRecipes" src="./HealthyRecipes/preview.jpg" width="250px">
+    <img alt="HealthyRecipes" title="HealthyRecipes" src="./HealthyRecipes/preview.jpg" width="260px">
   </a>
 
   
