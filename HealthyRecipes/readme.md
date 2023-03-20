@@ -1,6 +1,8 @@
 <h1>Desafio 3 - Landing page com apresentação de um site de alimentação saúdavel.</h1>
 
+<a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/HealthyRecipes/">
 <img src="preview.jpg">
+</a>
 
 <h3>Foram utilizados os seguintes serviços:</h3>
 
