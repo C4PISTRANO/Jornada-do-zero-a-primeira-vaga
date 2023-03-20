@@ -1,6 +1,8 @@
 <h1>Desafio 2 - Landing page com apresentação de uma plataforma de viagens.</h1>
 
+<a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/TravelExpert/">
 <img src="preview.jpg">
+</a>
 
 <h3>Foram utilizados os seguintes serviços:</h3>
 
