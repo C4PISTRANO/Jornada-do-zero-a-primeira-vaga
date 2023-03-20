@@ -10,5 +10,5 @@
 <br>
 <a href="https://fonts.google.com/">ImgBB</a>, para a hospedagem  gratuita das imagens utilizadas.
 
-<p>Acesse o link: <a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/HealthyRecipes/">TravelExpert/a> para visualizar a página em funcionamento.</p>
+<p>Acesse o link: <a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/HealthyRecipes/">HealthyRecipes</a> para visualizar a página em funcionamento.</p>
 
