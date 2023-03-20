@@ -1,6 +1,9 @@
 <h1>Desafio 1 - Landing page com apresentação do lançamento de um game.</h1>
 
+<a href="https://c4pistrano.github.io/Jornada-do-zero-a-primeira-vaga/EndlessNightmare/">
 <img src="preview.jpg">
+</a>
+
 
 <h3>Foram utilizados os seguintes serviços:</h3>
 
